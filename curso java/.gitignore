@@ -2,7 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea/sonarlint/
 
 ### Eclipse ###
 .apt_generated
