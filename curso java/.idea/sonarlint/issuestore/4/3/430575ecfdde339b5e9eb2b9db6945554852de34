@@ -1,0 +1,26 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "felix" 3 times.(ë‚İñÿÿÿÿÿ8®Ñ„1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "preto" 3 times.(ë‚İñÿÿÿÿÿ8—®Ñ„1
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿Êªéÿÿÿÿÿ8Ò¥©Ñ„1
+^
+java:S1854"<Remove this useless assignment to local variable "passaro3".(Àíşğúÿÿÿÿ8Ù¥©Ñ„1
+V
+java:S1854"9Remove this useless assignment to local variable "gato2".(ªÃÌ8Û¥©Ñ„1
+[
+java:S1854"9Remove this useless assignment to local variable "gato1".(ë‚İñÿÿÿÿÿ8İ¥©Ñ„1
+]
+java:S1854";Remove this useless assignment to local variable "passaro".(Ìšú‹ûÿÿÿÿ8ß¥©Ñ„1
+N
+java:S1481",Remove this unused "passaro" local variable.(Ìšú‹ûÿÿÿÿ8á¥©Ñ„1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(˜¿ş8ã¥©Ñ„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼”ò¤8å¥©Ñ„1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(˜¿ş8ç¥©Ñ„1
+L
+java:S1481"*Remove this unused "gato1" local variable.(ë‚İñÿÿÿÿÿ8è¥©Ñ„1
+G
+java:S1481"*Remove this unused "gato2" local variable.(ªÃÌ8é¥©Ñ„1
+]	java:S125"<This block of commented-out lines of code should be removed.(“åÈìÿÿÿÿÿ8ë¥©Ñ„1
+O
+java:S1481"-Remove this unused "passaro3" local variable.(Àíşğúÿÿÿÿ8¢®·Ñ„1
