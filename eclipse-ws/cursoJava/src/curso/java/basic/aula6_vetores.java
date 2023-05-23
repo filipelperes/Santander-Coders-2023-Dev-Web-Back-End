@@ -1,4 +1,4 @@
-package br.com.curso.java.basic;
+package curso.java.basic;
 
 import java.util.Arrays;
 

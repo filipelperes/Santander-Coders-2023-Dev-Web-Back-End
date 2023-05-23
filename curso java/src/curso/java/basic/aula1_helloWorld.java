@@ -1,4 +1,4 @@
-package br.com.curso.java.basic;
+package curso.java.basic;
 
 public class aula1_helloWorld {
     public static void main(String[] args) {

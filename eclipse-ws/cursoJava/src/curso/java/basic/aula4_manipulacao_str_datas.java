@@ -1,4 +1,4 @@
-package br.com.curso.java.basic;
+package curso.java.basic;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
