@@ -24,3 +24,5 @@ S
 +src/curso/java/lpoo/aula4_polimorfismo.java,4\3\430575ecfdde339b5e9eb2b9db6945554852de34
 U
 %src/curso/java/lpoo/aula2/Animal.java,2\9\29fd9fb582f8a7274531c8855a5ca8641e65f7d4
+W
+'src/curso/java/basic/aula3_if_else.java,a\6\a6c01258ae913a99d2ed95b14c11581a56b10e51

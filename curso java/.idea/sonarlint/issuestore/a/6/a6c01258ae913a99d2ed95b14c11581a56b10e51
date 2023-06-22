@@ -1,0 +1,14 @@
+
+Y
+java:S6208"CMerge the previous cases into this one using comma-separated label.(´ÄËê
+Y
+java:S6208""CMerge the previous cases into this one using comma-separated label.(‚±À
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–’Èô
+]
+java:S2259"GA "NullPointerException" could be thrown; "graduacao" is nullable here.(½ˆ˜å
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(§íıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªİ´ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•Å›‚
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÖØÀ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ªŒü—
